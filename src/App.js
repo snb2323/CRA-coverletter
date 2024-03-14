@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import About from './component/About_me';
-// import Skill from './component/Skill';
+import Skill from './component/Skill';
 // import Project from './component/Project';
 // import Preinteriew from './component/Preinteriew';
 // import ScrollToTop from './component/Scrolltotop';
@@ -14,8 +14,8 @@ function App() {
 
     <>
       <About></About>
-      {/* <Skill></Skill>
-      <Project></Project>
+      <Skill></Skill>
+      {/* <Project></Project>
       <Preinteriew></Preinteriew>
       <Contact></Contact>
       <Footer></Footer>
