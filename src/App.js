@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import About from './component/About_me';
 import Skill from './component/Skill';
-// import Project from './component/Project';
+import Project from './component/Project';
 // import Preinteriew from './component/Preinteriew';
 // import ScrollToTop from './component/Scrolltotop';
 // import Contact from './component/Contact_me'
@@ -15,8 +15,8 @@ function App() {
     <>
       <About></About>
       <Skill></Skill>
-      {/* <Project></Project>
-      <Preinteriew></Preinteriew>
+      <Project></Project>
+      {/* <Preinteriew></Preinteriew>
       <Contact></Contact>
       <Footer></Footer>
       <ScrollToTop></ScrollToTop> */}
