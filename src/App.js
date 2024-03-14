@@ -6,7 +6,7 @@ import Project from './component/Project';
 import Preinteriew from './component/Preinteriew';
 import Contact from './component/Contact_me'
 import Footer from './component/Footer'
-// import ScrollToTop from './component/Scrolltotop';
+import ScrollToTop from './component/Scrolltotop';
 
 
 
@@ -20,7 +20,7 @@ function App() {
       <Preinteriew></Preinteriew>
       <Contact></Contact>
       <Footer></Footer>
-      {/* <ScrollToTop></ScrollToTop> */}
+      <ScrollToTop></ScrollToTop>
 
     </>
   );
