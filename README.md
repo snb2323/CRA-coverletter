@@ -5,7 +5,7 @@
 
 <h1>배포용 링크</h1>
 <div>
-<a href="http://leedongmin.cafe24app.com/">LDM</a>
+<a href="http://leedongmin.cafe24app.com/">leedongmin.cafe24app.com</a>
 </div>
 
 <h1>이슈발생과 문제해결</h1>
