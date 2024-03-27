@@ -5,7 +5,7 @@
 
 <h1>배포용 링크</h1>
 <div>
-<a href="http://leedongmin.cafe24app.com/"></a>
+<a href="http://leedongmin.cafe24app.com/">LDM</a>
 </div>
 
 <h1>이슈발생과 문제해결</h1>
@@ -24,5 +24,5 @@
 </ul>
 <h1>피그마</h1>
 <div>
-<a href="https://www.figma.com/file/RDBdOswXvMWdwM5ZCbxrqF/%EC%9D%B4%EB%8F%99%EB%AF%BC-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%9E%90%EC%86%8C%EC%84%9C?type=design&node-id=0%3A1&mode=dev&t=n79nRkWz03AcSO4M-1"></a>
+<a href="https://www.figma.com/file/RDBdOswXvMWdwM5ZCbxrqF/%EC%9D%B4%EB%8F%99%EB%AF%BC-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%9E%90%EC%86%8C%EC%84%9C?type=design&node-id=0%3A1&mode=dev&t=n79nRkWz03AcSO4M-1">피그마</a>
 </div>
